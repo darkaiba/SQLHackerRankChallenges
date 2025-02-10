@@ -17,7 +17,7 @@ Challenge: O challenge_id é o id do desafio, o hacker_id é o id do hacker que 
 
 Submissions : submission_id é o id do envio, hacker_id é o id do hacker que fez o envio, challenge_id é o id do desafio ao qual o envio pertence e score é a pontuação do envio.
 
-<img src="enviospng" width="300">
+<img src="envios.png" width="300">
 
 2. 
 Harry Potter e seus amigos estão na casa de Olivaras com Rony, finalmente substituindo a velha varinha quebrada de Charlie.
