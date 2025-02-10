@@ -1,3 +1,8 @@
+Chanllege 2
+=========================
+
+Top Competitors | HackerRank 
+
 1.
 Julia acabou de conduzir um concurso de codificação e precisa da sua ajuda para montar o placar! Escreva uma consulta para imprimir o hacker_id e o nome dos hackers que atingiram a pontuação máxima em mais de um desafio. Ordene sua saída em ordem decrescente pelo número total de desafios em que o hacker obteve a pontuação máxima. Se mais de um hacker recebeu a pontuação máxima no mesmo número de desafios, classifique-os por hacker_id crescente .
 
