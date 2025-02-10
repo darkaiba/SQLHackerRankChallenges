@@ -1,4 +1,4 @@
-Chanllege 2
+Challenge 2
 =========================
 
 Top Competitors | HackerRank 
